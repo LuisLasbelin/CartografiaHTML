@@ -1,5 +1,4 @@
 /* Autor: Abidán Brito Clavijo */
-
 body {
     font-family: 'Rubik', sans-serif;
 }
@@ -18,8 +17,8 @@ h1 {
 .map-container {
     border-radius: 15px;
     overflow: hidden;
-    width: 115vh;
-    height: 85vh;
+    height: 900px;
+    width: 80%;
 }
 
 #leaflet {height: 500px}
